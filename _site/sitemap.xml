@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/about-me/</loc>
+<loc>http://localhost:4000/bio/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -13,7 +13,35 @@
 <loc>http://localhost:4000/teaching/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/assets/docs/4dayschoolweek_crime_EER_RR_Final.pdf</loc>
+<lastmod>2022-04-22T00:51:18+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/AIGap.pdf</loc>
+<lastmod>2022-04-22T00:52:43+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/Abortion_JPubE.pdf</loc>
+<lastmod>2022-04-22T00:50:31+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/AcademicCalendar.pdf</loc>
+<lastmod>2022-04-22T00:47:16+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/PeerEffects_JPubE_Final_2019.pdf</loc>
+<lastmod>2022-04-22T00:48:37+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/TUCE_Feb2019.pdf</loc>
+<lastmod>2022-04-22T00:49:40+10:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/docs/fischer_cv.pdf</loc>
 <lastmod>2022-04-20T17:22:48+10:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/frw_reduced_form_manuscript.pdf</loc>
+<lastmod>2022-04-22T00:54:16+10:00</lastmod>
 </url>
 </urlset>

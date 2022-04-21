@@ -7,6 +7,6 @@ main:
     url: /teaching/
   - title: "CV"
     url: /assets/docs/fischer_cv.pdf
-  - title: "About Me"
-    url: /about-me/
+  - title: "Bio"
+    url: /bio/
   
