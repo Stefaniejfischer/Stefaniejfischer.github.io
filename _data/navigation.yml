@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /assets/docs/fischer_cv.pdf
+  - title: "Bio"
+    url: /bio/
+  
