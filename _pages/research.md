@@ -1,6 +1,10 @@
 ---
 title: Research
 author_profile: true
+
+header:
+  image: /assets/images/0520StefanieCoreyWedding_KHP2019_crop.jpg
+  
 permalink: /research/
 ---
 
