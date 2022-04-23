@@ -2,7 +2,7 @@
 permalink: /bio/
 
 header:
-  image: /assets/images/IMG_6739_crop
+  image: /assets/images/IMG_6739_crop.jpg
 ---
 
 <!-- ### Bio -->
