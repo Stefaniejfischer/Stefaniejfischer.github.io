@@ -2,7 +2,7 @@
 permalink: /bio/
 
 header:
-  image: /assets/images/rallarvegen-crop2.jpg
+  image: /assets/images/IMG_6739_crop
 ---
 
 <!-- ### Bio -->
