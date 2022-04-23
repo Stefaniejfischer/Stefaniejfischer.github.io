@@ -24,7 +24,7 @@ permalink: /research/
 
  **[The Downside of Good Peers: How Classroom Composition Differentially Affects Men's and Women's STEM Persistence](/assets/docs/STEM_LE_RR.pdf){:target="_blank"}**, ***Labour Economics***, June 2017.
 
-- **[The Academic Achievement of American Indians](/assets/docs/AIGap.pdf){:target="_blank"}** (joint with [Chris Stoddard](https://www.montana.edu/cstoddard/){:target="_blank"}), ***Economics of Education Review***, October 2013.
+ **[The Academic Achievement of American Indians](/assets/docs/AIGap.pdf){:target="_blank"}** (joint with [Chris Stoddard](https://www.montana.edu/cstoddard/){:target="_blank"}), ***Economics of Education Review***, October 2013.
 
 ---
 
