@@ -1,6 +1,6 @@
 ---
 permalink: /bio/
-title: Bio
+
 header:
   image: /assets/images/rallarvegen-crop2.jpg
 ---
