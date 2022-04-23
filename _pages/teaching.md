@@ -3,19 +3,19 @@ permalink: /teaching/
 title: Teaching
 ---
 
-## AY 2020-2021
+## AY 2021-2022
 - Public Economics\
 &emsp;**Course content available on Moodle or by email.*
 
-## Office Hours - 2021
+## Office Hours - 2022
 
 &emsp;By (Zoom) appointment
 
 ## Previous courses taught:
 
-- Principles of Economics
-- Introduction to Econometric Theory
-- Graduate Labor Economics
-- Introduction to Public Policy
-- Senior Project
+- Principles of Economics (Cal Poly)
+- Introduction to Econometric Theory (UCSB and Cal Poly)
+- Graduate Labor Economics (Cal Poly)
+- Introduction to Public Policy (Monash)
+- Senior Project (Cal Poly)
 
