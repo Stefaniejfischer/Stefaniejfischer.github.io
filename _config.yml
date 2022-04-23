@@ -50,9 +50,9 @@ author:
   Research Affiliate at IZA Institute of Labor Economics*" # Note: Markdown is allowed
   location: "Melbourne, Australia"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://stefaniejfischer.github.io"
+  #  - label: "Website"
+   #   icon: "fas fa-fw fa-link"
+  #    url: "https://stefaniejfischer.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:stefanie.fischer@monash.edu"
