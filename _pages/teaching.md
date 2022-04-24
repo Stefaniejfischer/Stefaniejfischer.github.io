@@ -9,7 +9,7 @@ permalink: /teaching/
 ---
 
 ## AY 2021-2022
-- Public Economics\
+- Public Economics (4th year, Honours Program)\
 &emsp;**Course content available on Moodle or by email.*
 
 ## Office Hours - 2022
