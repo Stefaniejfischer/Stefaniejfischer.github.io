@@ -1,10 +1,11 @@
 ---
-header:
-image: /assets/images/j_hole_crop.jpg
-
-permalink: /teaching/
 title: Teaching
+author_profile: true
 
+header:
+  image: /assets/images/j_hole_crop.jpg
+  
+permalink: /teaching/
 ---
 
 ## AY 2021-2022
