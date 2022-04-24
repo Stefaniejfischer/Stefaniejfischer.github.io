@@ -1,10 +1,9 @@
 ---
-permalink: /teaching/
-title: Teaching
-
 header:
 image: /assets/images/j_hole_crop.jpg
-  
+
+permalink: /teaching/
+title: Teaching
 
 ---
 
