@@ -1,6 +1,11 @@
 ---
 permalink: /teaching/
 title: Teaching
+
+header:
+  image: /assets/images/IMG_6900_crop.jpg
+  
+
 ---
 
 ## AY 2021-2022
