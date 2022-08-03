@@ -13,14 +13,14 @@ permalink: /research/
 ## Working Papers
  **[Keep Me In, Coach: The Short- and Long-Term Effects of Targeted Academic Coaching](/assets/docs/coaching_v3.pdf){:target="_blank"}**  (joint with [Serena Canaan](https://sites.google.com/site/serenacanaan87/home){:target="_blank"}, [Pierre Mouganie](https://sites.google.com/site/pierremouganie/){:target="_blank"} and [Geoffrey Schnorr](https://geoffreyschnorr.com/){:target="_blank"})  
 
- **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://coreywhite.net/){:target="_blank"}) ***R&R American Economic Journal: Applied Economics***
+ **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://coreywhite.net/){:target="_blank"}), ***R&R -- American Economic Journal: Applied Economics***
 > *NBER Working Paper No. 30141*
 
 ---
 
 ## Published Articles
 
- **[Semesters or Quarters? The Effect of the Academic Calendar on Postsecondary Student Outcomes](/assets/docs/AcademicCalendar.pdf){:target="_blank"}**  [Online Appendix](https://drive.google.com/file/d/1p35nnkJFSHgieADzOnl2l2I50BkJy-Se/view?usp=sharing){:target="_blank"}  (joint with [Valerie Bostwick](https://vkbostwick.weebly.com/){:target="_blank"} and [Matthew Lang](https://sites.google.com/site/matthewdlang18/){:target="_blank"})  -- ***American Economic Journal: Economic Policy***, February 2022.
+ **[Semesters or Quarters? The Effect of the Academic Calendar on Postsecondary Student Outcomes](/assets/docs/AcademicCalendar.pdf){:target="_blank"}**  [Online Appendix](https://drive.google.com/file/d/1p35nnkJFSHgieADzOnl2l2I50BkJy-Se/view?usp=sharing){:target="_blank"}  (joint with [Valerie Bostwick](https://vkbostwick.weebly.com/){:target="_blank"} and [Matthew Lang](https://sites.google.com/site/matthewdlang18/){:target="_blank"}), ***American Economic Journal: Economic Policy***, February 2022.
 > *IZA Discussion Paper No. 12429*\
 *Media Coverage: [The Chronicle of Higher Education](https://www.chronicle.com/article/for-students-on-the-quarter-system-landing-a-summer-internship-can-bring-complications/){:target="_blank"}, [AEA Resarch Highlights](https://www.aeaweb.org/research/college-semesters-quarters-graduation){:target="_blank"}*
 
