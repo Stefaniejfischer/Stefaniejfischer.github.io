@@ -13,7 +13,7 @@ I am a Senior Lecturer (Advanced Assistant Professor) of Economics at [Monash Un
 
 ### News
 
-- Listen to the recent Freakonomics MD episode **[What Happens When a Hospital Closes?](https://freakonomics.com/podcast/what-happens-when-a-hospital-closes/){:target="_blank"}** My coauthor speaks about our findings from a new working paper [Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript.pdf){:target="_blank"}.
+- My coauthor was interviewed in a recent Freakonomics MD episode **[What Happens When a Hospital Closes?](https://freakonomics.com/podcast/what-happens-when-a-hospital-closes/){:target="_blank"}** He speaks about our findings from a new working paper [Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript.pdf){:target="_blank"}. 
 
 - New working paper: **[Keep Me In, Coach: The Short- and Long-Term Effects of Targeted Academic Coaching](/assets/docs/coaching_v3.pdf){:target="_blank"}**, (Aug. 2022).
 
