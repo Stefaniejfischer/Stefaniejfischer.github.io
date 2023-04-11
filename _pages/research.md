@@ -15,7 +15,7 @@ permalink: /research/
  > *IZA Discussion Paper No. 15469, EdWorkingPaper No. 22-620, Upjohn Institute Working Paper No. 22-370*
 
 
- **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://coreywhite.net/){:target="_blank"}), ***R&R -- American Economic Journal: Applied Economics***
+ **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://coreywhite.net/){:target="_blank"}), ***Conditionally Accepted: American Economic Journal: Applied Economics***
 > *NBER Working Paper No. 30141*
 
 ---
