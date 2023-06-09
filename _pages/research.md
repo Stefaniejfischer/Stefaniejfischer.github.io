@@ -47,6 +47,8 @@ permalink: /research/
 
 ## Selected Works in Progress
  **The Academic Calendar and Faculty Productivity** (joint with [Valerie K. Bostwick](https://vkbostwick.weebly.com/){:target="_blank"}, [Francesca Truffa](https://sites.northwestern.edu/ftl2720/){:target="_blank"} and [Ashley Wong](https://www.ashley-wong.net/){:target="_blank"})
+ 
  **Disentangling Sources of Variation in C-Section Rates** (joint with Heather Royer and Corey White)
+ 
  **The Long-term Effects of Academic Probation** (joint with Serena Canaan, Pierre Mouganie and Goeffrey Schnorr) 
 
