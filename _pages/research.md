@@ -11,11 +11,11 @@ permalink: /research/
 
 
 ## Working Papers
- **[Keep Me In, Coach: The Short- and Long-Term Effects of Targeted Academic Coaching](/assets/docs/coaching_v6.pdf){:target="_blank"}**  (joint with [Serena Canaan](https://sites.google.com/site/serenacanaan87/home){:target="_blank"}, [Pierre Mouganie](https://sites.google.com/site/pierremouganie/){:target="_blank"} and [Geoffrey Schnorr](https://geoffreyschnorr.com/){:target="_blank"})  
+ **[Keep Me In, Coach: The Short- and Long-Term Effects of Targeted Academic Coaching](/assets/docs/coaching_v7.pdf){:target="_blank"}**  (joint with [Serena Canaan](https://sites.google.com/site/serenacanaan87/home){:target="_blank"}, [Pierre Mouganie](https://sites.google.com/site/pierremouganie/){:target="_blank"} and [Geoffrey Schnorr](https://geoffreyschnorr.com/){:target="_blank"})  
  > *IZA Discussion Paper No. 15469, EdWorkingPaper No. 22-620, Upjohn Institute Working Paper No. 22-370*
 
 
- **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://coreywhite.net/){:target="_blank"}), ***Conditionally Accepted -- American Economic Journal: Applied Economics***
+ **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://coreywhite.net/){:target="_blank"}), ***Conditionally Accepted -- American Economic Journal: Applied Economics***
 > *NBER Working Paper No. 30141*
 
 ---
