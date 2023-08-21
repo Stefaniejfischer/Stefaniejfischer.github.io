@@ -11,7 +11,7 @@ permalink: /research/
 
 
 ## Working Papers
- **[Keep Me In, Coach: The Short- and Long-Term Effects of Targeted Academic Coaching](/assets/docs/coaching_v7.pdf){:target="_blank"}**  (joint with [Serena Canaan](https://sites.google.com/site/serenacanaan87/home){:target="_blank"}, [Pierre Mouganie](https://sites.google.com/site/pierremouganie/){:target="_blank"} and [Geoffrey Schnorr](https://geoffreyschnorr.com/){:target="_blank"})  ***R&R -- Journal of Political Economy Microeconomics***
+ **[Keep Me In, Coach: The Short- and Long-Term Effects of Targeted Academic Coaching](/assets/docs/coaching_v7.pdf){:target="_blank"}**  (joint with [Serena Canaan](https://sites.google.com/site/serenacanaan87/home){:target="_blank"}, [Pierre Mouganie](https://sites.google.com/site/pierremouganie/){:target="_blank"} and [Geoffrey Schnorr](https://geoffreyschnorr.com/){:target="_blank"})  ***R&R -- Journal of Political Economy: Micro***
  > *IZA Discussion Paper No. 15469, EdWorkingPaper No. 22-620, Upjohn Institute Working Paper No. 22-370*\
 > Best paper award Labour Econometrics Workshop 2022.
 
