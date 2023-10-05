@@ -15,13 +15,12 @@ permalink: /research/
  > *IZA Discussion Paper No. 15469, EdWorkingPaper No. 22-620, Upjohn Institute Working Paper No. 22-370*
 >- Best paper award Australia Labour Econometrics Workshop 2022
 
-
- **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://coreywhite.net/){:target="_blank"}), ***Conditionally Accepted -- American Economic Journal: Applied Economics***
-> *NBER Working Paper No. 30141*
-
 ---
 
 ## Published Articles
+
+ **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://coreywhite.net/){:target="_blank"}), ***Forthcoming -- American Economic Journal: Applied Economics***
+> *NBER Working Paper No. 30141*
 
  **[Semesters or Quarters? The Effect of the Academic Calendar on Postsecondary Student Outcomes](/assets/docs/AcademicCalendar.pdf){:target="_blank"}**  [Online Appendix](/assets/docs/Online_Appendix.pdf){:target="_blank"}  (joint with [Valerie Bostwick](https://vkbostwick.weebly.com/){:target="_blank"} and [Matthew Lang](https://sites.google.com/site/matthewdlang18/){:target="_blank"}), ***American Economic Journal: Economic Policy***, February 2022.
 > *IZA Discussion Paper No. 12429*\
