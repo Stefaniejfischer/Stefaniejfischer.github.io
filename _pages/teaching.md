@@ -8,13 +8,13 @@ header:
 permalink: /teaching/
 ---
 
-## AY 2021-2022
-- Public Economics (4th year, Honours Program)\
+## AY 2023-2024
+- Public Economics (4th year, Honours Program and Graduate Course)\
 &emsp;**Course content available on Moodle or by email.*
 
-## Office Hours - 2022
+## Office Hours - 2023
 
-&emsp;By (Zoom) appointment
+&emsp;By appointment
 
 ## Previous courses taught:
 
