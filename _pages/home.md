@@ -19,5 +19,5 @@ I am an Associate Professor of Economics at [Monash University](https://research
 **[Workshop Program](/assets/docs/xx.pdf){:target="_blank"}**\
 **[ Registration]( https://events.humanitix.com/monash-help-workshop){:target="_blank"}**
 
-	The next City of Melbourne Applied Drinks: November 23rd from 5:30 PM at Loop Roof Bar (Melbourne CBD)
+	The next City of Melbourne Applied Drinks: **November 23rd from 5:30 PM** at Loop Roof Bar (Melbourne CBD)
 
