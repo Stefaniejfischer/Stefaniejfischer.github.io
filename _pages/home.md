@@ -14,7 +14,7 @@ I am an Associate Professor of Economics at [Monash University](https://research
 
 **Announcements:**
 
->- 	I am organizing the inaugural Monash HELP Workshop to be held December 11 & 12 2023 in Melbourne.\
+>- 	I am organizing the inaugural Monash HELP Workshop to be held December 11 & 12, 2023 in Melbourne.\
 > **[ Details](/assets/docs/xx.pdf){:target="_blank"}**\
 > **[Workshop Program](/assets/docs/xx.pdf){:target="_blank"}**\
 > **[ Registration]( https://events.humanitix.com/monash-help-workshop){:target="_blank"}**
