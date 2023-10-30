@@ -19,8 +19,7 @@ I am an Associate Professor of Economics at [Monash University](https://research
 >[Workshop Program](/assets/docs/xx.pdf){:target="_blank"}\
 >[Registration]( https://events.humanitix.com/monash-help-workshop){:target="_blank"}
 
-•	The Applied Group at Monash Econ is hiring a post-doc. You will have the opportunity to work on policy-relevant projects using newly available linked Australian micro data. 
->Apply **[here]( https://careers.pageuppeople.com/513/cw/en/job/655936/research-fellow-economics){:target="_blank"}**
+•	The Applied Group at Monash Econ is hiring a post-doc. The post-doc will have the opportunity to work with faculty on policy-relevant projects using newly available linked Australian micro data. **Apply [here]( https://careers.pageuppeople.com/513/cw/en/job/655936/research-fellow-economics){:target="_blank"}**
 
 •	The next City of Melbourne Applied Drinks: **November 23rd from 5:30 PM** at Loop Roof Bar (Melbourne CBD)\
 Send me an email if you want to be added to the applied drinks email list.
