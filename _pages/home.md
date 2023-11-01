@@ -16,7 +16,7 @@ I am an Associate Professor of Economics at [Monash University](https://research
 
 •	I am organizing the inaugural **Monash HELP Workshop** to be held December 11 & 12, 2023 in Melbourne. 
 >[Details](/assets/docs/xx.pdf){:target="_blank"}\
->[Workshop Program](/assets/docs/xx.pdf){:target="_blank"}\
+>[Workshop Program](/assets/docs/workshop_program.pdf){:target="_blank"}\
 >[Registration]( https://events.humanitix.com/monash-help-workshop){:target="_blank"}
 
 •	The Applied Group at Monash Econ is hiring a **post-doc**. The post-doc will have the opportunity to work with faculty on policy-relevant projects using newly available linked Australian micro data. **Apply [here]( https://careers.pageuppeople.com/513/cw/en/job/655936/research-fellow-economics){:target="_blank"}**
