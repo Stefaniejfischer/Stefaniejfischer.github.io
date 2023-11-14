@@ -24,7 +24,7 @@ permalink: /research/
 
  **[Semesters or Quarters? The Effect of the Academic Calendar on Postsecondary Student Outcomes](/assets/docs/AcademicCalendar.pdf){:target="_blank"}**  [Online Appendix](/assets/docs/Online_Appendix.pdf){:target="_blank"}  (joint with [Valerie Bostwick](https://vkbostwick.weebly.com/){:target="_blank"} and [Matthew Lang](https://sites.google.com/site/matthewdlang18/){:target="_blank"}), ***American Economic Journal: Economic Policy***, February 2022.
 > *IZA Discussion Paper No. 12429*\
-*Media Coverage: [The Chronicle of Higher Education](https://www.chronicle.com/article/for-students-on-the-quarter-system-landing-a-summer-internship-can-bring-complications/){:target="_blank"}, [AEA Resarch Highlights](https://www.aeaweb.org/research/college-semesters-quarters-graduation){:target="_blank"}*
+*Media Coverage: [The Chronicle of Higher Education](https://www.chronicle.com/article/for-students-on-the-quarter-system-landing-a-summer-internship-can-bring-complications/){:target="_blank"}, [AEA Research Highlights](https://www.aeaweb.org/research/college-semesters-quarters-graduation){:target="_blank"}*
 
  **[Coordination and Contagion: Individual Connections and Peer Mechanisms in a Randomized Field Experiment](/assets/docs/PeerEffects_JPubE_Final_2019.pdf){:target="_blank"}** (joint with Philip Babcock, [Kelly Bedard](https://econ.ucsb.edu/people/faculty/kelly-bedard){:target="_blank"} and John Hartman), ***Journal of Public Economics***, May 2020.
 
