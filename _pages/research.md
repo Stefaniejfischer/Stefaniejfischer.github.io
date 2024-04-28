@@ -50,9 +50,11 @@ permalink: /research/
 
 ## Selected Works in Progress
 
- **Disentangling Sources of Variation in C-Section Rates** (joint with Heather Royer and Corey White)[Draft available upon request.]
+ **Disentangling Sources of Variation in C-Section Rates** (joint with Heather Royer and Corey White)\
+ [Draft available upon request.]
  
- **The Long-term Effects of Academic Probation** (joint with Serena Canaan, Pierre Mouganie and Goeffrey Schnorr) [Draft available upon request.]
+ **The Long-term Effects of Academic Probation** (joint with Serena Canaan, Pierre Mouganie and Goeffrey Schnorr)\
+ [Draft available upon request.]
 
  **The Academic Calendar and Faculty Productivity** (joint with [Valerie K. Bostwick](https://vkbostwick.weebly.com/){:target="_blank"}, [Francesca Truffa](https://sites.northwestern.edu/ftl2720/){:target="_blank"} and [Ashley Wong](https://www.ashley-wong.net/){:target="_blank"})
  
