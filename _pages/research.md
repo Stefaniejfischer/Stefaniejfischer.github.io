@@ -25,7 +25,7 @@ permalink: /research/
 
 
  **[Semesters or Quarters? The Effect of the Academic Calendar on Postsecondary Student Outcomes](/assets/docs/AcademicCalendar.pdf){:target="_blank"}** (joint with [Valerie Bostwick](https://vkbostwick.weebly.com/){:target="_blank"} and [Matthew Lang](https://sites.google.com/site/matthewdlang18/){:target="_blank"}), ***American Economic Journal: Economic Policy***, February 2022.\
- [Online Appendix](/assets/docs/Online_Appendix.pdf){:target="_blank"} [Replication package](https://www.openicpsr.org/openicpsr/project/124861/version/V1/view){:target="_blank"}
+ [Online Appendix](/assets/docs/Online_Appendix.pdf){:target="_blank"} [Replication Package](https://www.openicpsr.org/openicpsr/project/124861/version/V1/view){:target="_blank"}
 > *IZA Discussion Paper No. 12429*\
 *Media Coverage: [The Chronicle of Higher Education](https://www.chronicle.com/article/for-students-on-the-quarter-system-landing-a-summer-internship-can-bring-complications/){:target="_blank"}, [AEA Research Highlights](https://www.aeaweb.org/research/college-semesters-quarters-graduation){:target="_blank"}*
 
