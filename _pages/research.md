@@ -19,8 +19,10 @@ permalink: /research/
 
 ## Published Articles
 
- **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://corey-white.com/){:target="_blank"}), ***Forthcoming -- American Economic Journal: Applied Economics***
+ **[Health Care Centralization: The Health Impacts of Obstetric Unit Closures in the US](/assets/docs/frw_reduced_form_manuscript_AEJ_R2.pdf){:target="_blank"}** (joint with [Heather Royer](https://sites.google.com/site/heathernroyer/){:target="_blank"} and [Corey White](https://corey-white.com/){:target="_blank"}), ***American Economic Journal: Applied Economics***, July 2024.
 > *NBER Working Paper No. 30141*
+*Media Coverage: [FreakonomicsMD](https://freakonomics.com/podcast/what-happens-when-a-hospital-closes/){:target="_blank"},
+
 
  **[Semesters or Quarters? The Effect of the Academic Calendar on Postsecondary Student Outcomes](/assets/docs/AcademicCalendar.pdf){:target="_blank"}**  [Online Appendix](/assets/docs/Online_Appendix.pdf){:target="_blank"}  (joint with [Valerie Bostwick](https://vkbostwick.weebly.com/){:target="_blank"} and [Matthew Lang](https://sites.google.com/site/matthewdlang18/){:target="_blank"}), ***American Economic Journal: Economic Policy***, February 2022.
 > *IZA Discussion Paper No. 12429*\
