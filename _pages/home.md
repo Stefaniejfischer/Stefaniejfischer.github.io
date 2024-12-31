@@ -14,7 +14,7 @@ I am a Principal Economist at Amazon and an Adjunct Associate Professor of Econo
 
 **Announcements:**
 
-•	I have changed roles. The best way to get in touch is at stefaniejfischer@gmail.com
+•	I have changed roles. The best way to get in touch is at stefaniejfischer@gmail.com.
 
 
 
